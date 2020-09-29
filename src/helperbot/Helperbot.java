@@ -67,7 +67,7 @@ public class Helperbot {
         if (option == 2) {
         control = false;
         } else {
-     System.out.println("Wrong answer, Please, try again.");
+     System.out.println("Wrong answer, try again, Please");
         }
       }
     }
