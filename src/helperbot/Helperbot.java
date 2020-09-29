@@ -72,7 +72,7 @@ public class Helperbot {
       }
     }
     static void end() {
-        System.out.println("Correct!, Congratulations, have a nice day!");        
+        System.out.println("Correct!, Congratulations, See you later!");        
     }
 }
     
